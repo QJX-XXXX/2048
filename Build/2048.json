@@ -1,0 +1,15 @@
+{
+"companyName": "com.qjx.qwe",
+"productName": "2048",
+"productVersion": "1.0",
+"dataUrl": "2048.data.unityweb",
+"wasmCodeUrl": "2048.wasm.code.unityweb",
+"wasmFrameworkUrl": "2048.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.34f1c1"
+}
